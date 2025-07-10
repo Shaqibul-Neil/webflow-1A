@@ -224,7 +224,7 @@ nav {
   padding: 71px 0;
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: centre;
 }
 .contact_text {
   font-family: var(--rale);
@@ -263,7 +263,7 @@ nav {
 /*footer start*/
 footer {
   padding: 80px 0 50px;
-  text-align: center;
+  text-align: centre;
 }
 .footer_content {
   width: 531px;

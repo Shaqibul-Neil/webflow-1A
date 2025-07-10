@@ -148,7 +148,7 @@ nav {
 .reviews {
   margin-top: 50px;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   text-align: left;
   gap: 40px;
 }
@@ -177,7 +177,7 @@ nav {
 }
 .reviewer {
   margin-top: 25px;
-  width: 318px;
+  width: 290px;
   height: 55px;
   display: flex;
   gap: 20px;

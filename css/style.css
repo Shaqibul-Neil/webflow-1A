@@ -243,7 +243,7 @@ nav {
 .contact_input {
   margin: 10px 0 20px;
   padding: 20px;
-  width: 497px;
+  width: 450px;
   font-family: var(--int);
   font-size: 16px;
   font-weight: 400;
@@ -257,7 +257,7 @@ nav {
 }
 .input-btn {
   padding: 20px;
-  width: 539px;
+  width: 495px;
 }
 /*main end*/
 /*footer start*/
